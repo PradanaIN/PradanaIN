@@ -14,7 +14,7 @@
 <br>
 <h3 align="center">Connect with me!</h3>
 <p align="center">
-<a href="https://open.spotify.com/user/21wam2mifdbjjrvkdkqm74mqa?si=b2ea87e99bb54b28" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/251374?s=280&v=4" alt="spotify" height="40" width="40" /></a>
+<a href="https://open.spotify.com/user/21wam2mifdbjjrvkdkqm74mqa?si=b2ea87e99bb54b28" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/251374?s=280&v=4" alt="spotify" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/pradanain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/pradanawae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 <a href="https://fb.com/novanniindipradana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
