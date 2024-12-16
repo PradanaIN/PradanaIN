@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Novanni Indi Pradana 👋</h1>
-<h3 align="center">A student studying statistics and programming</h3>
+<h3 align="center">Studying statistics and programming</h3>
 
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradanain&show_icons=true&locale=en" alt="pradanain" /></p>
